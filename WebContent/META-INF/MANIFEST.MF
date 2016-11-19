@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: crud Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ricardojose
+Implementation-Vendor-Id: projeto.servlet
+Build-Jdk: 1.7.0_60
+Created-By: Maven Integration for Eclipse
+
